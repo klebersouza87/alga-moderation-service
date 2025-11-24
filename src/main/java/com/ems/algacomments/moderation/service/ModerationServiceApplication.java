@@ -1,4 +1,4 @@
-package com.ems.algacomments.moderation_service;
+package com.ems.algacomments.moderation.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
